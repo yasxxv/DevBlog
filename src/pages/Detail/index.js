@@ -77,7 +77,7 @@ export default function Detail(){
             <Image 
             resizeMode="cover"
                 style={styles.cover}
-                source={{ uri: `http://192.168.15.7:1337${post?.attributes?.cover?.data?.attributes?.url}`}}
+                source={{ uri: `http://192.168.15.6:1337${post?.attributes?.cover?.data?.attributes?.url}`}}
             />
 
             <Text style={styles.title}>

@@ -23,7 +23,7 @@ function Routes(){
             name="Detail"
             component={Detail}
             options={{
-                title: 'Detalhes',
+                title: 'Post',
                 headerTintColor: '#FFF',
                 headerStyle:{
                     backgroundColor: '#232630'
